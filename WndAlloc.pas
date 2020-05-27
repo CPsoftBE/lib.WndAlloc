@@ -56,9 +56,9 @@
       This solution is sligtly faster than the pascal one, but it is a nasty
       hack and requires the use of SSE2 instruction and SSE register.
 
-  Version 1.2,1 (2020-03-09)
+  Version 1.2.1 (2020-03-09)
 
-  Last change 2020-03-09
+  Last change 2020-05-27
 
   ©2015-2020 František Milt
 
